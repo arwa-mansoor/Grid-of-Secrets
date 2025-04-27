@@ -82,7 +82,7 @@ Here’s a taste of the types of puzzles you'll encounter:
 
 ---
 
-## 🔮 Future Enhancements (Optional Ideas)
+## 🔮 Future Enhancements
 - Add random clue sets for replayability.
 - Add timer and scoring system.
 - Animate correct and incorrect taps.
